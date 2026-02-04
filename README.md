@@ -11,3 +11,6 @@ ddr内存颗粒的故障分析，ddr内存模组的故障颗粒定位。  高级
 资深篇介绍了DDR的ECC技术原理和不同ecc机制的深入剖析，紧接着对intel和amd两家x86厂家的处理器的内存地址解码机制进行了BIOS MRC代码级别的剖析，获得准确的行列地址后，
 然后就是介绍了DDR4和DDR5的PPR修复原理和具体工作流程，以及代码剖析，
 介绍了intel CPU的IMC里面的CPGC测试引擎，它是AMT测试的基石，最后的是对DDR-PHY以及DFI进行了全面深入的讲解和BIOS MRC代码级别的剖析。
+
+
+![5本电子书目录概览](https://github.com/user-attachments/assets/55e31e0e-6133-4902-8894-1c17aca38ae5)
